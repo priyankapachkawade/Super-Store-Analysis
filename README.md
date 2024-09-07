@@ -53,7 +53,7 @@ The project was created to leverage data visualization techniques for better und
 
 ### Guidelines
 - Follow standard coding practices and naming conventions.
-- Ensure all contributions are well-documented.
+- Ensure all contributions are well documented.
 
 ### Issues and Feedback
 - Report issues or suggest improvements via the GitHub issue tracker.
